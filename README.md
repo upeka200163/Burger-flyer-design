@@ -20,8 +20,8 @@ A modern restaurant flyer design created using Adobe Photoshop.
 - Food marketing style
 - Print & digital ready
 
-  ##
+  ## Git Repo
   1. Clone the repo:
    ```bash
-   
+   https://github.com/upeka200163/Burger-flyer-design.git
 
