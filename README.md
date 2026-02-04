@@ -21,4 +21,7 @@ A modern restaurant flyer design created using Adobe Photoshop.
 - Print & digital ready
 
   ##
+  1. Clone the repo:
+   ```bash
+   
 
